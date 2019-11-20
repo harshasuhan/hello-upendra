@@ -1,0 +1,4 @@
+git remote -v
+git shortlog
+git log --author=harshasuhan
+git log --online
